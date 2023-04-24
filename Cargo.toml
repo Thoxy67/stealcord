@@ -1,0 +1,15 @@
+[package]
+name = "stealcord"
+version = "0.1.0"
+edition = "2021"
+authors = ["Thoxy"]
+license = "MIT"
+description = "Multi platform Discord token stealer library"
+repository = "https://github.com/Thoxy67/stealcord/"
+documentation = "https://docs.rs/stealcord"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rusty-leveldb = "1.0.6"
